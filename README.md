@@ -11,7 +11,6 @@ This project implements the **Caesar Cipher** encryption and decryption algorith
 3. [Getting Started](#getting-started)
 4. [Usage Instructions](#usage-instructions)
 5. [Technical Details](#technical-details)
-6. [License](#license)
 
 ---
 
@@ -66,13 +65,13 @@ java -version
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/caesar-cipher-java.git
+git clone https://github.com/Maaroof-Khan10/Caesar-Cipher-Using-ASCII.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd caesar-cipher-java
+cd Caesar-Cipher-Using-ASCII
 ```
 
 ---
@@ -111,7 +110,7 @@ Once provided, you'll be given a menu with options:
 ```
 [CaesarCipher in Java using ASCII codes]
 
-Enter your message or String> Hello, World!
+Enter your message or String> Hello World
 Enter shift number (0-94)> 5
 
 Please choose an option:
@@ -121,7 +120,7 @@ Please choose an option:
 
 <#> 1
 
-Your encrypted string is> Mjqqt-1%|twqi
+Your encrypted string is> Mjqqt%\twqi
 ```
 
 ---
